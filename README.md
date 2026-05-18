@@ -7,12 +7,12 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-Penetration%20Testing-red.svg)](https://github.com/aymanlagraini/hexstrike-ai)
-[![MCP](https://img.shields.io/badge/MCP-Compatible-purple.svg)](https://github.com/aymanlagraini/hexstrike-ai)
-[![Version](https://img.shields.io/badge/Version-6.0.0-orange.svg)](https://github.com/aymanlagraini/hexstrike-ai/releases)
-[![Tools](https://img.shields.io/badge/Security%20Tools-150%2B-brightgreen.svg)](https://github.com/aymanlagraini/hexstrike-ai)
-[![Agents](https://img.shields.io/badge/AI%20Agents-12%2B-purple.svg)](https://github.com/aymanlagraini/hexstrike-ai)
-[![Stars](https://img.shields.io/github/stars/aymanlagraini/hexstrike-ai?style=social)](https://github.com/aymanlagraini/hexstrike-ai)
+[![Security](https://img.shields.io/badge/Security-Penetration%20Testing-red.svg)](https://github.com/lagraini123/hexstrike-ai)
+[![MCP](https://img.shields.io/badge/MCP-Compatible-purple.svg)](https://github.com/lagraini123/hexstrike-ai)
+[![Version](https://img.shields.io/badge/Version-6.0.0-orange.svg)](https://github.com/lagraini123/hexstrike-ai/releases)
+[![Tools](https://img.shields.io/badge/Security%20Tools-150%2B-brightgreen.svg)](https://github.com/lagraini123/hexstrike-ai)
+[![Agents](https://img.shields.io/badge/AI%20Agents-12%2B-purple.svg)](https://github.com/lagraini123/hexstrike-ai)
+[![Stars](https://img.shields.io/github/stars/lagraini123/hexstrike-ai?style=social)](https://github.com/lagraini123/hexstrike-ai)
 
 **Advanced AI-powered penetration testing MCP framework with 150+ security tools and 12+ autonomous AI agents**
 
@@ -116,7 +116,7 @@ graph TD
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/aymanlagraini/hexstrike-ai.git
+git clone https://github.com/lagraini123/hexstrike-ai.git
 cd hexstrike-ai
 
 # 2. Create virtual environment
@@ -671,7 +671,7 @@ We welcome contributions from the cybersecurity and AI community!
 
 ```bash
 # 1. Fork and clone the repository
-git clone https://github.com/aymanlagraini/hexstrike-ai.git
+git clone https://github.com/lagraini123/hexstrike-ai.git
 cd hexstrike-ai
 
 # 2. Create development environment
@@ -748,7 +748,7 @@ MIT License - see LICENSE file for details.
 
 ### **🚀 Ready to Transform Your AI Agents?**
 
-**[⭐ Star this repository](https://github.com/aymanlagraini/hexstrike-ai)** • **[🍴 Fork and contribute](https://github.com/aymanlagraini/hexstrike-ai/fork)** • **[📖 Read the docs](docs/)**
+**[⭐ Star this repository](https://github.com/lagraini123/hexstrike-ai)** • **[🍴 Fork and contribute](https://github.com/lagraini123/hexstrike-ai/fork)** • **[📖 Read the docs](docs/)**
 
 ---
 
